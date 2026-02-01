@@ -1,28 +1,3 @@
----
-
-## 🖥️ Top 5 Free Remote Online Quantum Computers for Program Execution
-
-1. **IBM Quantum Experience (Qiskit Cloud)**  
-   Free access to real IBM quantum computers and simulators for running quantum programs.  
-   [https://quantum-computing.ibm.com/](https://quantum-computing.ibm.com/)
-
-2. **Microsoft Azure Quantum (Free Tier)**  
-   Free credits for running quantum programs on IonQ, Quantinuum, and simulators via Azure Quantum.  
-   [https://azure.microsoft.com/en-us/products/quantum/](https://azure.microsoft.com/en-us/products/quantum/)
-
-3. **Amazon Braket (Free Tier)**  
-   Free access to quantum hardware (IonQ, Rigetti, OQC) and simulators with AWS Free Tier credits.  
-   [https://aws.amazon.com/braket/](https://aws.amazon.com/braket/)
-
-4. **QuTech Quantum Inspire**  
-   Free access to real quantum processors and simulators for program execution (Netherlands-based).  
-   [https://www.quantum-inspire.com/](https://www.quantum-inspire.com/)
-
-5. **Rigetti Forest Cloud (PyQuil)**  
-   Free access to Rigetti’s quantum virtual machine and limited real hardware for program execution.  
-   [https://www.rigetti.com/forest](https://www.rigetti.com/forest)
-
-
 # Quantum Programming: Learning Notes & Resources
 
 ![Quantum Computing Badge](https://img.shields.io/badge/Quantum-Programming-blueviolet)
@@ -108,6 +83,31 @@ Welcome to **Quantum Programming** — a curated collection of learning notes, g
    - **PennyLane** – Python for quantum machine learning (free)
    - **OpenQASM** – Low-level assembly language for quantum tools
    - **Guppy** – New Python-based language to simplify quantum coding (free)
+
+   ---
+
+## 🖥️ Top 5 Free Remote Online Quantum Computers for Program Execution
+
+1. **IBM Quantum Experience (Qiskit Cloud)**  
+   Free access to real IBM quantum computers and simulators for running quantum programs.  
+   [https://quantum-computing.ibm.com/](https://quantum-computing.ibm.com/)
+
+2. **Microsoft Azure Quantum (Free Tier)**  
+   Free credits for running quantum programs on IonQ, Quantinuum, and simulators via Azure Quantum.  
+   [https://azure.microsoft.com/en-us/products/quantum/](https://azure.microsoft.com/en-us/products/quantum/)
+
+3. **Amazon Braket (Free Tier)**  
+   Free access to quantum hardware (IonQ, Rigetti, OQC) and simulators with AWS Free Tier credits.  
+   [https://aws.amazon.com/braket/](https://aws.amazon.com/braket/)
+
+4. **QuTech Quantum Inspire**  
+   Free access to real quantum processors and simulators for program execution (Netherlands-based).  
+   [https://www.quantum-inspire.com/](https://www.quantum-inspire.com/)
+
+5. **Rigetti Forest Cloud (PyQuil)**  
+   Free access to Rigetti’s quantum virtual machine and limited real hardware for program execution.  
+   [https://www.rigetti.com/forest](https://www.rigetti.com/forest)
+
 
 ---
 
