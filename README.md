@@ -117,7 +117,32 @@ Welcome to **Quantum Programming** — a curated collection of learning notes, g
 - **Visual Studio** — Free Community Edition supports Q#; paid versions offer more features
 - **Quantum Development Kit (QDK)** — Free Microsoft toolset with Q# debugging
 
+
 Most quantum languages are Python-based or run in free environments like VS Code/Jupyter. Paid options are mainly for access to real quantum hardware.
+
+---
+
+## 🌐 Top 5 Free Online Quantum Computer Resources
+
+1. **IBM Quantum Experience (Qiskit)**  
+   Free access to real quantum computers and simulators, with tutorials and a vibrant community.  
+   [https://quantum-computing.ibm.com/](https://quantum-computing.ibm.com/)
+
+2. **Microsoft Quantum Development Kit (QDK) & Q#**  
+   Free tools, documentation, and online simulators for learning and coding quantum algorithms.  
+   [https://learn.microsoft.com/en-us/azure/quantum/](https://learn.microsoft.com/en-us/azure/quantum/)
+
+3. **Google Quantum AI (Cirq)**  
+   Free Python library, code labs, and cloud simulators for building and running quantum circuits.  
+   [https://quantumai.google/](https://quantumai.google/)
+
+4. **Quantum Country**  
+   Free interactive essays and spaced-repetition flashcards for deeply learning quantum computing concepts.  
+   [https://quantum.country/](https://quantum.country/)
+
+5. **Qiskit Textbook**  
+   Free, open-source online textbook with hands-on quantum programming exercises and theory.  
+   [https://qiskit.org/textbook/](https://qiskit.org/textbook/)
 
 ---
 
