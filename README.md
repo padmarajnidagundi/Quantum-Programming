@@ -6,9 +6,22 @@
 
 > **Keywords:** quantum computing, quantum programming, Qiskit, Cirq, Q#, PyQuil, PennyLane, quantum algorithms, quantum circuits, quantum learning, quantum frameworks
 
----
 
 ## 🚀 Overview
+
+## 🗂️ Repository Structure
+
+```
+Quantum-Programming/
+│
+├── Qiskit/        # Programs and notes for IBM Qiskit
+├── Cirq/          # Programs and notes for Google Cirq
+├── QSharp/        # Programs and notes for Microsoft Q#
+├── PyQuil/        # Programs and notes for Rigetti PyQuil
+├── PennyLane/     # Programs and notes for PennyLane
+├── LICENSE
+├── README.md
+```
 
 Welcome to **Quantum Programming** — a curated collection of learning notes, guides, and resources for anyone interested in quantum computing and quantum programming. This repository is designed to help beginners and enthusiasts understand the basics, explore top frameworks, and start coding for quantum computers.
 
