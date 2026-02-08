@@ -80,6 +80,57 @@ Welcome to **Quantum Programming** — a curated collection of learning notes, g
    - Paid: Hardware access may cost
    - Good for: Low-level circuit design control
 
+## 📝 Your First Quantum Program: Hello Quantum (Cirq Example)
+
+Here's how to write and run your first quantum program using Cirq:
+
+1. **Create a file:**
+    - Go to the `Cirq/` folder.
+    - Create a new file named `hello_quantum.py`.
+
+2. **Paste this code:**
+
+    ```python
+    import cirq
+
+    def main():
+          print("Hello Quantum!")
+
+          # Create a simple quantum circuit with one qubit
+          qubit = cirq.LineQubit(0)
+          circuit = cirq.Circuit(
+                cirq.H(qubit),  # Apply Hadamard gate
+                cirq.measure(qubit, key='result')  # Measure the qubit
+          )
+          print("Circuit:")
+          print(circuit)
+
+          # Simulate the circuit
+          simulator = cirq.Simulator()
+          result = simulator.run(circuit, repetitions=5)
+          print("Measurement results:")
+          print(result)
+
+    if __name__ == "__main__":
+          main()
+    ```
+
+3. **Run the program:**
+    - Open a terminal in the `Cirq/` folder.
+    - Run: `python hello_quantum.py`
+
+You should see output like:
+
+```
+Hello Quantum!
+Circuit:
+0: ───H───M('result')───
+Measurement results:
+result=...
+```
+
+This is your first step in quantum programming!
+
 3. **Q# (Microsoft Q-Sharp)** – *Standalone language*
    - Quantum-only language (not Python) by Microsoft
    - Free: Part of Quantum Development Kit
