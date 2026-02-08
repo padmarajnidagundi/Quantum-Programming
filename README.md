@@ -90,6 +90,12 @@ Here's how to write and run your first quantum program using Cirq:
 
 2. **Paste this code:**
 
+   > **Note:** If you are running this code in [Google Colab](https://colab.research.google.com/), you need to install Cirq first by running:
+   >
+   > ```python
+   > !pip install cirq
+   > ```
+
     ```python
     import cirq
 
@@ -119,6 +125,7 @@ Here's how to write and run your first quantum program using Cirq:
     - Open a terminal in the `Cirq/` folder.
     - Run: `python hello_quantum.py`
 
+
 You should see output like:
 
 ```
@@ -126,8 +133,10 @@ Hello Quantum!
 Circuit:
 0: ───H───M('result')───
 Measurement results:
-result=...
+result=01000
 ```
+
+The actual measurement result (the string of 0s and 1s) may vary each time you run the program, but it will look similar to the above.
 
 This is your first step in quantum programming!
 
