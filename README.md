@@ -242,6 +242,22 @@ Most quantum languages are Python-based or run in free environments like VS Code
 
 ---
 
+
+---
+
+## ⭐ KT table for myself 
+
+| **Concept**                        | **What it means (short)**                | **Why / Key Idea**                     | **Result**                 | **How to improve (short)**                       |
+| ---------------------------------- | ---------------------------------------- | -------------------------------------- | -------------------------- | ------------------------------------------------ |
+| **Quantum Error Rate**             | How often qubits make mistakes           | Noise, fragile qubits, hardware limits | **Lower = better** ✅       | Better hardware, noise control, error correction |
+| **Quantum Key Rate**               | Speed of generating secure keys          | Depends on channel quality & hardware  | **Higher = better** 🚀     | Faster devices, low-loss links, better protocols |
+| **Quantum Error Correction (QEC)** | Method to fix quantum errors             | Uses multiple qubits to protect data   | Improves reliability       | More qubits, smarter correction codes            |
+| **Quantum Key Distribution (QKD)** | Secure key sharing using quantum physics | Eavesdropping changes quantum states   | Ultra-secure communication | Better detectors, stable channels                |
+| **Quantum Machine Learning (QML)** | ML using quantum computers               | Parallel quantum computation           | Faster learning (future)   | Improved algorithms, better quantum hardware     |
+
+
+**My above learning notes** 🚀
+
 ## Contributing
 
 We welcome first-time contributors! If you’re new to open source, look for issues tagged with `good-first-issue` or `help-wanted`. We provide mentorship and guidance to help you succeed.
